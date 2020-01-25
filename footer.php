@@ -1,0 +1,1 @@
+<font color="blue" face="comic sans ms" size=5>&copy; 2018| Sistem Informasi Barang | All Rights Reserved</font>
